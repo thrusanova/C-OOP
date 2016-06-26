@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Methods\obj\Debug\SayHello.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Methods\obj\Debug\Methods.pdb

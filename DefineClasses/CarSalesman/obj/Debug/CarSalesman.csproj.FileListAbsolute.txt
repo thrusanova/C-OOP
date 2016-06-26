@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CarSalesman\bin\Debug\CarSalesman.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CarSalesman\bin\Debug\CarSalesman.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CarSalesman\bin\Debug\CarSalesman.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CarSalesman\obj\Debug\CarSalesman.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CarSalesman\obj\Debug\CarSalesman.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CarSalesman\obj\Debug\CarSalesman.pdb
