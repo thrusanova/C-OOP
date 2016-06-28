@@ -44,7 +44,7 @@ namespace PrimeChecker
 
             if (number % 2 == 0 && number!=2) return false; //Even number     
            
-            for (int i = 1; i < number; i += 2)
+            for (int i = 3; i < number; i += 2)
             {
                 if (number % i == 0 ) return false;
             }
