@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DrawingTool
 {
@@ -120,11 +116,7 @@ namespace DrawingTool
                         CorDraw drawFg = new CorDraw(figure);
                         drawFg.drawFigure();
                         break;
-
                 }
-               
-
-
 
             }
         }
