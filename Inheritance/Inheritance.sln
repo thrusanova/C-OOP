@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MordorsCrueltyPlan", "Mordo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineRadio", "OnlineRadio\OnlineRadio.csproj", "{19986330-821B-4D68-BBB2-14AEE19760EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{F086AF9B-2888-4CF9-BAF9-7FF0489E7D09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{19986330-821B-4D68-BBB2-14AEE19760EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19986330-821B-4D68-BBB2-14AEE19760EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19986330-821B-4D68-BBB2-14AEE19760EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F086AF9B-2888-4CF9-BAF9-7FF0489E7D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F086AF9B-2888-4CF9-BAF9-7FF0489E7D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F086AF9B-2888-4CF9-BAF9-7FF0489E7D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F086AF9B-2888-4CF9-BAF9-7FF0489E7D09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
