@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineRadio", "OnlineRadio\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{F086AF9B-2888-4CF9-BAF9-7FF0489E7D09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{0B35A502-5009-41CC-9A6C-C6864B5CB27C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F086AF9B-2888-4CF9-BAF9-7FF0489E7D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F086AF9B-2888-4CF9-BAF9-7FF0489E7D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F086AF9B-2888-4CF9-BAF9-7FF0489E7D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B35A502-5009-41CC-9A6C-C6864B5CB27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B35A502-5009-41CC-9A6C-C6864B5CB27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B35A502-5009-41CC-9A6C-C6864B5CB27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B35A502-5009-41CC-9A6C-C6864B5CB27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
