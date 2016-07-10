@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ShapeVolume
 {
@@ -45,17 +41,17 @@ namespace ShapeVolume
         public static void CalcCube(double side)
         {
             var volume = side * side * side;
-            Console.WriteLine($"{volume}");
+            Console.WriteLine($"{volume:F3}");
         }
         public static void CalcCylinder(double r, double h)
         {
             var volume = Math.PI * r * r * h;
-            Console.WriteLine($"{volume}");
+            Console.WriteLine($"{volume:F3}");
         }
         public static void CalcPrizm(double a, double h, double l)
         {
             var volume = (double) (a * h * l)/2;
-            Console.WriteLine($"{volume}");
+            Console.WriteLine($"{volume:F3}");
         }
     }
     class Program
@@ -83,7 +79,7 @@ namespace ShapeVolume
                 {
                     double a = double.Parse(input[1]);
                     double b = double.Parse(input[2]);
-                    double c = double.Parse(input[2]);
+                    double c = double.Parse(input[3]);
                     VolumeCalculator.CalcPrizm(a, b,c);
                 }
 
