@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\PrintPeople\bin\Debug\PrintPeople.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\PrintPeople\bin\Debug\PrintPeople.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\PrintPeople\bin\Debug\PrintPeople.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\PrintPeople\obj\Debug\PrintPeople.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\PrintPeople\obj\Debug\PrintPeople.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\PrintPeople\obj\Debug\PrintPeople.pdb

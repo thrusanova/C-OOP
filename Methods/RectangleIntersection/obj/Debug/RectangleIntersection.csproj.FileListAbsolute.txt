@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\RectangleIntersection\bin\Debug\RectangleIntersection.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\RectangleIntersection\bin\Debug\RectangleIntersection.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\RectangleIntersection\bin\Debug\RectangleIntersection.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\RectangleIntersection\obj\Debug\RectangleIntersection.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\RectangleIntersection\obj\Debug\RectangleIntersection.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\RectangleIntersection\obj\Debug\RectangleIntersection.pdb

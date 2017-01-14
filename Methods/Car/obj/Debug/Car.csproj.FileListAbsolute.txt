@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Car\bin\Debug\Car.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Car\bin\Debug\Car.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Car\bin\Debug\Car.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Car\obj\Debug\Car.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\Car\obj\Debug\Car.pdb

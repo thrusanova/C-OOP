@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\PocemonTreiner\bin\Debug\PocemonTreiner.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\PocemonTreiner\obj\Debug\PocemonTreiner.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\PocemonTreiner\bin\Debug\PocemonTreiner.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\PocemonTreiner\bin\Debug\PocemonTreiner.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\PocemonTreiner\obj\Debug\PocemonTreiner.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\PocemonTreiner\obj\Debug\PocemonTreiner.pdb
