@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\OpinionPol\bin\Debug\OpinionPol.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\OpinionPol\bin\Debug\OpinionPol.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\OpinionPol\bin\Debug\OpinionPol.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\OpinionPol\obj\Debug\OpinionPol.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\OpinionPol\obj\Debug\OpinionPol.pdb
