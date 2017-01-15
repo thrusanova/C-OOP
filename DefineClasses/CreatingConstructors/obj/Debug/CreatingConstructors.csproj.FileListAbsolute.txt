@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CreatingConstructors\bin\Debug\CreatingConstructors.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CreatingConstructors\bin\Debug\CreatingConstructors.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CreatingConstructors\bin\Debug\CreatingConstructors.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CreatingConstructors\obj\Debug\CreatingConstructors.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CreatingConstructors\obj\Debug\CreatingConstructors.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\CreatingConstructors\obj\Debug\CreatingConstructors.pdb

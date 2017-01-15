@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\FibonachiNumbers\bin\Debug\FibonachiNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\FibonachiNumbers\obj\Debug\FibonachiNumbers.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\FibonachiNumbers\bin\Debug\FibonachiNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\FibonachiNumbers\bin\Debug\FibonachiNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\FibonachiNumbers\obj\Debug\FibonachiNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\FibonachiNumbers\obj\Debug\FibonachiNumbers.pdb

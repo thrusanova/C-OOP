@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\RawData\bin\Debug\RawData.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\RawData\bin\Debug\RawData.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\RawData\bin\Debug\RawData.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\RawData\obj\Debug\RawData.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\RawData\obj\Debug\RawData.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\DefineClasses\RawData\obj\Debug\RawData.csprojResolveAssemblyReference.cache

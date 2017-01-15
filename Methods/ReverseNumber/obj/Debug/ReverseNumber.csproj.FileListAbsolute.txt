@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\ReverseNumber\obj\Debug\ReverseNumber.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\OOPBasics\Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb
