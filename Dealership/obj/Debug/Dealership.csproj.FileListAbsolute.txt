@@ -1,0 +1,5 @@
+C:\Users\tanya\Downloads\Dealership_Description\Dealership-Skeleton\Dealership\bin\Debug\Dealership.exe
+C:\Users\tanya\Downloads\Dealership_Description\Dealership-Skeleton\Dealership\bin\Debug\Dealership.pdb
+C:\Users\tanya\Downloads\Dealership_Description\Dealership-Skeleton\Dealership\obj\Debug\Dealership.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Downloads\Dealership_Description\Dealership-Skeleton\Dealership\obj\Debug\Dealership.exe
+C:\Users\tanya\Downloads\Dealership_Description\Dealership-Skeleton\Dealership\obj\Debug\Dealership.pdb
